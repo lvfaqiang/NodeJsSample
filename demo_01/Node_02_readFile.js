@@ -1,7 +1,7 @@
 
 var fs = require("fs")
 
-var filePath = "Desktop/Personal/NodeJs/input.txt"
+var filePath = "Desktop/Personal/NodeJs/demo_01/input.txt"
 // 同步读取文件。
 var data = fs.readFileSync(filePath)
 
