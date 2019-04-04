@@ -3,7 +3,7 @@ var fs = require("fs")
  *  input.txt 文件必须是已存在的，否则报错
  *  Error: ENOENT: no such file or directory
  */
-var readStream = fs.createReadStream("./input.txt") 
+var readStream = fs.createReadStream("./input.txt")
 
 var writeStream = fs.createWriteStream("./pipe_write.txt")
 
@@ -14,4 +14,11 @@ var writeStream = fs.createWriteStream("./pipe_write.txt")
  * 
  * 在终端 输入  cat [filePath] 查看文件内容
  */
-readStream.pipe(writeStream)   
+readStream.pipe(writeStream)
+
+// 追加文本
+var wStream = fs.createWriteStream("./outappend.txt", {
+    'flags': 'a'    // 设置读写模式为 append 
+})
+wStream.write("这是初始数据。")
+readStream.pipe(wStream)

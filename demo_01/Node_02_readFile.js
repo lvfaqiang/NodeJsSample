@@ -1,5 +1,5 @@
 
-var fs = require("fs")
+var fs = require("fs")  // 导入文件系统模块。
 
 var filePath = "Desktop/Personal/NodeJs/demo_01/input.txt"
 // 同步读取文件。
