@@ -14,6 +14,8 @@ Nodejs 上手练习。
 
 [Stream 链式流](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_07_Stream_chain.js)
 
+[函数](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_08_Function.js)
+
 ### [demo_02](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02)
 
 [模块系统](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02/module)
