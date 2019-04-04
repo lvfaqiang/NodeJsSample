@@ -1,6 +1,6 @@
 # NodeJsSample
 Nodejs 上手练习。
-#### demo_01
+### [demo_01](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01)
 
 [读文件](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_02_readFile.js)
 
@@ -11,3 +11,9 @@ Nodejs 上手练习。
 [Stream 读写文件](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_05_Stream.js)
 
 [Stream 管道流](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_06_Stream_pipe.js)
+
+[Stream 链式流](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_07_Stream_chain.js)
+
+### [demo_02](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02)
+
+[模块系统](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02/module)
