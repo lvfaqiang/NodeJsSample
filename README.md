@@ -19,3 +19,8 @@ Nodejs 上手练习。
 ### [demo_02](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02)
 
 [模块系统](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02/module)
+
+[路由](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02/route)
+```
+个人理解，文档介绍的路由写法，无非就是有一个 route 方法，然后在 server 中多层传递，间接的去调用这个方法。
+```
