@@ -16,6 +16,8 @@ Nodejs 上手练习。
 
 [函数](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_08_Function.js)
 
+[全局对象](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_01/Node_09_Global.js)
+
 ### [demo_02](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02)
 
 [模块系统](https://github.com/lvfaqiang/NodeJsSample/blob/master/demo_02/module)
